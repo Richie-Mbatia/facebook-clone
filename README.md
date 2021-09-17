@@ -1,2 +1,1 @@
-# facebook-clone
-FB clone code along 
+# Flutter Facebook Responsive UI Starter Project
